@@ -32,7 +32,7 @@ http://2014.hackitoergosum.org/slides/
 
 https://speakerdeck.com/hackitoergosum/
 
-###### ## Confidence 2013 
+## Confidence 2013 
 
 http://2013.confidence.org.pl/materials
 
