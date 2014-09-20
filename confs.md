@@ -32,13 +32,7 @@ http://2014.hackitoergosum.org/slides/
 
 https://speakerdeck.com/hackitoergosum/
 
-## ZeroNights 12 
-
-###### MongoDb Slides
-
-http://www.slideshare.net/cyber-punk/mongo-db-eng
-
-## Confidence 2013 
+###### ## Confidence 2013 
 
 http://2013.confidence.org.pl/materials
 
