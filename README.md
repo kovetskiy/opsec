@@ -1,1 +1,3 @@
 # OPSEC
+
+[Conferences](confs.md)
