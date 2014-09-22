@@ -1,3 +1,9 @@
+# Feeds
+
+## SecDoc
+
+http://www.secdocs.org/
+
 ## Unserialize magic
 
 http://onsec.ru/php-unserialize.pdf
@@ -10,3 +16,6 @@ http://www.slideshare.net/fullscreen/d0znpp/smuggling-splitting-poisoning-zeroni
 
 http://www.slideshare.net/cyber-punk/mongo-db-eng
 
+## Root via XSS
+
+http://www.slideshare.net/qqlan/denis-baranov-root-via-xss
