@@ -1,8 +1,11 @@
-# Feeds
 
 ## SecDoc
 
 http://www.secdocs.org/
+
+## Fast dynamic program analysys. Race detection
+
+http://www.slideshare.net/yaevents/fasdynamic-analysis-kostya-serebryany
 
 ## Unserialize magic
 
