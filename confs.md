@@ -1,3 +1,13 @@
+## DEFCON 22
+
+https://media.defcon.org/DEF%20CON%2022/
+
+http://www.slideshare.net/OWASP-Russia
+
+## PacSec 2014
+
+https://pacsec.jp/psj14archive.html
+
 ## RuCTF, CIPHER, USF collection
 
 http://ftp.hackerdom.ru/ctf-images/
