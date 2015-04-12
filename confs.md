@@ -78,6 +78,10 @@ https://www.its.fh-muenster.de/owasp-appseceu13/
 
 http://www.syscan360.org/html/2013/en/schedule.html
 
+## SyScan2015
+
+https://www.syscan.org/index.php/download
+
 ## DerbyCon 2013
 
 http://www.irongeek.com/i.php?page=videos/derbycon3/mainlist
